@@ -1,6 +1,6 @@
 
 def hello(event, context):
-    msg = 'Hello World'
+    msg = 'Hello World 2'
 
-    print(msg)
+    print("Second change")
     return msg
